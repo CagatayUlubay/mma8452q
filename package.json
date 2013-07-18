@@ -1,6 +1,6 @@
 {
   "name": "mma8452q",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Running the MMA8452Q accelerometer.",
   "main": "index.js",
   "scripts": {
