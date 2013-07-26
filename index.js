@@ -67,7 +67,7 @@ function getAcceleration ()
   return out;
 }
 
-function initialize ()
+function initialize (next)
 {
   tm.i2c_initialize(tm.I2C_1);
   tm.i2c_master_enable(tm.I2C_1);
