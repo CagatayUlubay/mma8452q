@@ -3,7 +3,7 @@
 Install:
 
 ```
-npm install mmq8452q
+npm install mma8452q
 ```
 
 Import:
